@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../imgs/backgroundsdch.jpg);
+    background-size: cover;
+}
+.container{
+    background-image: url(../imgs/sdch.jpg);
+    background-size: cover;
+    width: 30em;
+    height: 30em;
+    margin-left: 27em;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+h1,#h1{
+    text-align: center;
+}
+strong{
+    color: orange;
+    text-transform: uppercase;
+    font-family: cursive;
+}
